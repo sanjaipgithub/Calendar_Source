@@ -1,0 +1,39 @@
+[
+  {
+    "date": "2024-05-02",
+    "title": "Conference",
+    "time": "10:00",
+    "duration": "2h",
+    "color": "rgb(189 67 134)"
+  },
+  {
+    "date": "2024-05-02",
+    "title": "Meeting",
+    "time": "10:00",
+    "duration": "2h",
+    "color": "rgb(72 27 183)"
+  },
+  {
+    "date": "2024-06-05",
+    "title": "Event 2",
+    "time": "10:00",
+    "duration": "1h",
+    "color": "rgb(189 67 134)"
+  },
+    
+  {
+    "date": "2024-04-10",
+    "title": "Meeting",
+    "time": "10:00",
+    "duration": "2h",
+    "color": "#FF5733"
+  },
+  {
+    "date": "2024-05-06",
+    "title": "Event 3",
+    "time": "12:00",
+    "duration": "1h",
+    "color": "rgb(54 177 183)"
+  }
+  ]
+  

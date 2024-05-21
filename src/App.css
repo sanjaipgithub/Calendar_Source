@@ -1,0 +1,35 @@
+.App {
+  text-align: center;
+  background-color: #f0f2f5;
+  min-height: 100vh;
+  font-family: Arial, sans-serif;
+}
+
+.App-header {
+  /* display: flex;
+  /* align-items: center;
+  justify-content: center;  */
+  flex-direction: column;
+  font-size: 24px; 
+  color: #333; 
+  padding: 20px; 
+  background-color: #4caf50;
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  max-height: 206px;
+}
+
+
+.current-date {
+  position: relative;
+  background-color: #25c325;
+  color: white;
+  border-radius: 50%;
+  height: 39px;
+  width: 35px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0 auto;
+  margin-top: -14px;
+  z-index: 1;
+}
